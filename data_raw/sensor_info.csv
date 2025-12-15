@@ -1,0 +1,11 @@
+sensor_id,machine_id,location,sensor_type
+SEN01,MC01,Line1,Current
+SEN02 ,MC04,Line1,Temperature
+sen03,MC04,khu a,Vibration
+SEN04 ,MC05,Line1,Vibration
+SEN05 ,MC05,khu a,Vibration
+SEN06 ,MC03,Line1,temperature 
+SEN07 ,MC05,Line 1,vibration 
+SEN08 ,MC02,Khu  A,vibration 
+ SEN09,MC04,Khu A,vibration 
+ SEN10,MC01,Line 1,vibration 

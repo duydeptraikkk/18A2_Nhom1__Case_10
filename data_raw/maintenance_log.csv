@@ -1,0 +1,61 @@
+machine_id,maintenance_date,issue_type,downtime_hours
+MC04,05/02/2024,over heat,1.5
+MC01,2024-01-10,elect  ,
+MC04,08/01/2024,Vibration,3h
+MC02,01/02/2024,elect  ,2.0
+MC01,08/01/2024, vib ,1.5
+MC05,2024-02-17, vib , 2.5 
+MC04,2024-02-25,elect  ,3h
+MC01,24/01/2024,Electrical,1.5
+MC03,11/01/2024,over heat,4.0
+MC04,26/02/2024,Vibration,2.0
+MC01,2024-01-18,elect  ,4.0
+MC01,2024-01-19,elect  ,1.5
+MC05,13/01/2024,over heat,1.5
+MC05,2024-02-18,Vibration,4.0
+MC03,18/01/2024,elect  ,4.0
+MC01,04/02/2024,over heat,1.5
+MC02,2024-02-03, vib ,3h
+MC03,28/02/2024,Overheat,2.0
+MC02,2024-02-02,over heat, 2.5 
+MC05,14/02/2024,Electrical, 2.5 
+MC05,14/02/2024,Overheat,3h
+MC04,2024-02-28,over heat,1.5
+MC04,2024-01-23,Vibration,2.0
+MC04,26/02/2024,Electrical,4.0
+MC02,2024-02-15,elect  ,1.5
+MC02,09/01/2024,over heat,
+MC02,2024-01-20,over heat,1.5
+MC04,14/02/2024,Overheat,1.5
+MC01,2024-02-19, vib ,1.5
+MC02,2024-01-07,elect  , 2.5 
+MC05,2024-01-04,Vibration,1.5
+MC01,20/01/2024,Overheat,1.5
+MC05,14/01/2024,over heat,2.0
+MC03,2024-01-02,elect  ,4.0
+MC05,2024-01-23,Electrical,
+MC05,16/01/2024,Overheat,1.5
+MC05,2024-02-18,over heat,
+MC02,2024-01-19,Electrical,1.5
+MC01,2024-02-29,Electrical,
+MC04,24/01/2024,over heat,3h
+MC01,12/01/2024, vib ,3h
+MC02,2024-02-02,Overheat,4.0
+MC01,2024-01-30,over heat,3h
+MC03,2024-02-15,elect  ,1.5
+MC01,2024-01-21, vib ,4.0
+MC04,08/02/2024,elect  ,3h
+MC02,2024-02-05, vib ,2.0
+MC01,27/02/2024, vib ,
+MC03,2024-01-12,elect  ,3h
+MC01,2024-01-26,elect  ,
+MC01,2024-01-08, vib ,
+MC05,07/01/2024,over heat,1.5
+MC03,2024-01-13,Electrical,3h
+MC01,15/01/2024,elect  ,3h
+MC03,18/02/2024,Electrical, 2.5 
+MC03,18/02/2024,elect  ,3h
+MC03,31/01/2024, vib ,3h
+MC05,2024-01-18, vib ,1.5
+MC01,2024-01-17,over heat,
+MC02,2024-01-02,Overheat,1.5
